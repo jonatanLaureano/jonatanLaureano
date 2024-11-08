@@ -58,10 +58,10 @@
 
 <p align ="center">
   
-  <a href="https://www.linkedin.com/in/ifeanyi-nneji-719989235" target="_blank">
+  <a href="https://www.linkedin.com/in/jonatan-laureano-alfaro-bb41682b4/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>  
-  <a href="mailto:ifeanyinneji777@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+  <a href="mailto:jonatandlau@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
   </a>
     
