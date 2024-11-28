@@ -4,28 +4,28 @@
 <!-- Titulo -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello 👋 I'm Jonatan / Front-end Developer ✨ </h1></summary>
+    <summary><h1 style="display: inline-block">Hola 👋 Soy Jonatan / Desarrollador front-end ✨ </h1></summary>
   </ul>
 </div>
 
 <!-- Bienvenida -->
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'am+a+Web+Developer;I'study+systems+engineering" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=¡Bienvenido+a+mi+perfil+de+GitHub!;Soy+Desarrollador+Web;Estudio+ingenieria+de+sistemas" /></a>
 </p>
 
 <!-- Sobre mi -->
-<h2>About me 😃</h2>
+<h2>Acerca de mí 😃</h2>
 <p align="left">
-🎓 Systems Engineering Student
+🎓 Estudiante de Ingeniería de Sistemas.
   
-💻 I currently have solid knowledge in Front-end web development through the use of programming language, technologies, structure and design. I am fluent in English at a basic level and in tools such as Visual Studio Code, Tailwind, Git, GitHub, Angular, React and     MySQL. I stand out for my ability to work in teams, leadership, adaptability and conflict resolution.
+💻 Autodidacta apasionado por el desarrollo web. 
 
 📫 Contacto: **jonatandlau@gmail.com**
   </p>
 
 <br>
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Actividad de Git</b></i>
 </p>
  
 <p>
@@ -37,13 +37,13 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologías que conozco👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,cpp,github,gitlab,java,mongodb,mysql,nodejs,postman,py,vite,react,angular,tailwind,ts,vscode,discord" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,cpp,github,gitlab,java,mongodb,mysql,linux,nodejs,postman,py,vite,react,angular,tailwind,ts,vscode,discord" />
   </a>
 </p>
 
@@ -52,7 +52,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Conéctate conmigo🤝</h2></summary>
   </ul>
 </div>
 
