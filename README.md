@@ -10,7 +10,7 @@
 
 <!-- Bienvenida -->
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=¡Bienvenido+a+mi+perfil+de+GitHub!;Soy+Desarrollador+Web;Estudio+ingenieria+de+sistemas" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=¡Bienvenido+a+mi+perfil+de+GitHub!;Soy+Desarrollador+Web;Estudie+ingenieria+de+sistemas" /></a>
 </p>
 
 <!-- Sobre mi -->
