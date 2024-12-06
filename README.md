@@ -16,7 +16,7 @@
 <!-- Sobre mi -->
 <h2>Acerca de mí 😃</h2>
 <p align="left">
-🎓 Estudiante de Ingeniería de Sistemas.
+🎓 Egresado de Ingeniería de Sistemas.
   
 💻 Autodidacta apasionado por el desarrollo web. 
 
