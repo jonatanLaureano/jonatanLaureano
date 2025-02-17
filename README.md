@@ -20,7 +20,7 @@
   
 💻 Autodidacta apasionado por el desarrollo web. 
 
-📫 Contacto: **jonatandlau@gmail.com**
+📫 Contacto: **@jonatandlau@gmail.com** - [Porfolio.jonatan](https://porfolio-jonatan.vercel.app/)
   </p>
 
 <br>
